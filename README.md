@@ -13,7 +13,7 @@ Este es el código de una página hecha con el formato y características de Pin
 + **Google Fonts** Para la fuente.
 
 ## Vista Previa del Proyecto
-![Demo].(Imagenes/CapPinterest.jpeg).
+![Demo](Imagenes/CapPinterest.jpeg).
 
 
 
