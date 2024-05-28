@@ -1,5 +1,5 @@
 # Pinterest-Tamgotchi
-Este es el código de una página hecha con el formato y características de Pinterest.
+Este es el código de una página hecha con el formato y características de Pinterest. Se implementó html y css.
 
 ## Características
 * Diseño responsive, adaptable para una experiencia de usuario opto para dispositivos móviles y de escritorio. 
